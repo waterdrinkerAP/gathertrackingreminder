@@ -22,4 +22,10 @@ This is a modified version of [GatherTrackingReminder](https://www.curseforge.co
 
 ## 📜 License
 
-This is a derivative addon. If the original project is not licensed under a permissive license (e.g., MIT, GPL), it is assumed to be **All Rights Reserved**, and this fork is provided for personal/educational use. Please respect the original author's work.
+This project is licensed under the [BSD 3-Clause License](./LICENSE).
+
+- Original work © 2025 [hyxgwyx](https://www.curseforge.com/members/hyxgwyx/projects)
+- Modifications © 2025 [waterdrinkerAP](https://github.com/waterdrinkerAP)
+
+You are free to use, modify, and redistribute this addon in source or binary form,
+provided you comply with the conditions of the license.
