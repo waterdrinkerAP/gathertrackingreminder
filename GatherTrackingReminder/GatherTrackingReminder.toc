@@ -1,0 +1,10 @@
+## Interface: 11402
+## Title: GatherTrackingReminder (Modified)
+## Notes: Based on v2.0.6 by qeldroma. Adds center-screen alert and sound.
+## Author: qeldroma (original), waterdrinkerAP (modifications)
+## Version: 2.0.6-mod1
+## X-Original-Author: qeldroma
+## X-Original-Version: 2.0.6
+## X-Modded-By: waterdrinkerAP
+
+GatherTrackingReminder.lua
